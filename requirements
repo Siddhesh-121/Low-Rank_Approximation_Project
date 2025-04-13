@@ -1,0 +1,21 @@
+# Requirements
+
+
+# Note: When running in Google Colab, you don't need to manually install these packages
+# as they are pre-installed in the Colab environment. This requirements file is only
+# needed if you're running the notebooks locally.
+
+tensorflow>=2.5.0
+keras>=2.5.0
+numpy>=1.19.5
+matplotlib>=3.3.4
+scikit-learn>=0.24.2
+pandas>=1.2.4
+seaborn>=0.11.1
+tqdm>=4.61.0
+scipy>=1.6.3
+h5py>=2.10.0
+ipywidgets>=7.6.3
+jupyter>=1.0.0
+pydot>=1.4.2
+graphviz>=0.16
